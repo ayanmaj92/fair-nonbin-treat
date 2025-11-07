@@ -14,3 +14,4 @@ yacs==0.1.8
 wandb==0.15.8
 optuna==3.4.0
 fairtorch==0.1.2
+fairlearn==0.12.0
